@@ -6,7 +6,12 @@
 3. Cristian Emmanuel Gutiérrez Díaz
 
 ## Objetivo general
-Parrafo con el objetivo general
+En este proyecto se pretende diseñar y crear una pecera inteligente, esta será controlada con una aplicación movil con capacidad
+de dispensar comida automáticamente a una hora programada o cuando el usuario lo requiera, gestionando también la cantidad de comida 
+que será dispensada. Esta pecera contendrá un modo nocturno que consiste en que cuando se detecta poca luz, se encenderá
+una serie de luces led blanca al contorno de la pecera, además de contar con una serie RGB para personalizar su diseño; también contendrá un aireador
+que puede ser encendido debido a gestión del usuario o cuando detecte temperaturas ligeramente altas; todo esto podrá ser programable desde
+la aplicación móvil.
 ### Objetivos específicos
 - Elemento 1 de la lista de objetivos específicos
 - Elemento 2 de la lista de objetivos específicos
