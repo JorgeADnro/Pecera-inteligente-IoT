@@ -18,7 +18,7 @@ Parrafo con el objetivo general
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
+|  1  |  Arduino  |  2.0.1  |  IDE  |
 |    |          |         |      |
 |    |          |         |      |
 
