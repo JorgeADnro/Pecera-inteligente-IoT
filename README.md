@@ -23,6 +23,7 @@ la aplicación móvil.
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
 |  1  |  Arduino  |  2.0.1  |  IDE  |
+|  2  |  Visual Studio Code  |  1.71.2  |  IDE  |
 
 
 ## Tabla con el hardware utilizado
@@ -32,6 +33,7 @@ la aplicación móvil.
 |   2 |      Sensor De Luz Sensor Fotoresistivo      |      Un sensor fotoeléctrico o fotocélula es un dispositivo electrónico que responde al cambio en la intensidad de la luz.       |    ![image](https://http2.mlstatic.com/D_Q_NP_722260-MLM40766811613_022020-AB.webp)    |    1      |     $57        |
 |  3  |       Oky Sensor de Temperatura Contra Agua     |     Sensor de temperatura a prueba de agua que utiliza el chip DS18B20 con una interfaz de bus simple. Gracias a que tiene un encapsulado de acero inoxidable de 6 mm x 50 mm, es resistente al agua, a la humedad y al óxido.        |    ![image](https://www.cyberpuerta.mx/img/product/M/CP-OKY-OS-30651-1.jpg)    |     1     |       $83      |
 |  4  |   Tira Luces Led Bluetooth Control App Usb Impermeable Rgb 3m  |     Es una tira de LED que puede cambiar de color usando un controlador. Los diferentes colores se obtienen mezclando los 3 colores primarios rojo, verde y azul, de ahí la abreviatura RGB. Estos 3 colores están presentes en el mismo chip.    |   ![image](https://http2.mlstatic.com/D_NQ_NP_732280-CBT50066636636_052022-O.webp)   |   1  |  $187   |
+|  5  |   Bomba De Aire Oxigeno Acuario 50 Litros Manguera Y Difusor  |     Una bomba de aire o aireador, sirve básicamente para garantizarnos de que no exista una barrera que bloquee el intercambio de oxígeno y dióxido de carbono en el acuario.    |   ![image]([https://http2.mlstatic.com/D_NQ_NP_732280-CBT50066636636_052022-O.webp](https://http2.mlstatic.com/D_NQ_NP_841667-MLM49370638461_032022-O.webp))   |   1  |  $112   |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Quiero darle de comer a mis peces cada cierto tiempo manual y automáticamente.
