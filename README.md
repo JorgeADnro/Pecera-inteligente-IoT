@@ -32,7 +32,7 @@ la aplicación móvil.
 |----|------------|-------------|--------|----------|-------------|
 |  1  |  ESP32  |  El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos  |  ![image](https://www.sigmaelectronica.net/wp-content/uploads/2019/03/ESP-32.jpg)|      1    |     $150        |
 |   2 |      Sensor De Luz Sensor Fotoresistivo      |      Un sensor fotoeléctrico o fotocélula es un dispositivo electrónico que responde al cambio en la intensidad de la luz.       |    ![image](https://http2.mlstatic.com/D_Q_NP_722260-MLM40766811613_022020-AB.webp)    |    1      |     57        |
-|  3  |       Oky Sensor de Temperatura Contra Agua     |      ![image](https://www.cyberpuerta.mx/img/product/M/CP-OKY-OS-30651-1.jpg)       |    1    |     83     |             |
+|  3  |       Oky Sensor de Temperatura Contra Agua     |     Sensor de temperatura a prueba de agua que utiliza el chip DS18B20 con una interfaz de bus simple. Gracias a que tiene un encapsulado de acero inoxidable de 6 mm x 50 mm, es resistente al agua, a la humedad y al óxido.        |    ![image](https://www.cyberpuerta.mx/img/product/M/CP-OKY-OS-30651-1.jpg)    |     1     |       83      |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Elemento de la lista de épicas del proyecto
