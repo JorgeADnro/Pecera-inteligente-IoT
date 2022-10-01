@@ -36,10 +36,10 @@ la aplicación móvil.
 |  4  |   Tira Luces Led Bluetooth Control App Usb Impermeable Rgb 3m  |     Es una tira de LED que puede cambiar de color usando un controlador. Los diferentes colores se obtienen mezclando los 3 colores primarios rojo, verde y azul, de ahí la abreviatura RGB. Estos 3 colores están presentes en el mismo chip.    |   ![image](https://http2.mlstatic.com/D_NQ_NP_732280-CBT50066636636_052022-O.webp)   |   1  |  $187   |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
+- Quiero darle de comer a mis peces cada cierto tiempo manual y automáticamente.
+- Cómo usuario quiero encender el airador cada que sea requerido.
+- Como usuario quiero conocer las condiciones de la pecera.
+- Quiero que en la noche se enciendan las luces de la pecera.
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
