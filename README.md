@@ -44,10 +44,10 @@ la aplicación móvil.
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-| 1  | Quiero darle de comer a mis peces cada cierto tiempo manual y automáticamente. |   Alta        |            |        Esperar a la hora programada o activarlo desde la aplicación móvil       |             |
-| 2  | Cómo usuario quiero encender el airador cada que sea requerido. |    Alta       |            |      Aumentar la temperatura del ambiente         |             |
-| 3  | Como usuario quiero conocer las condiciones de la pecera. |      Alta     |            |         Revisar la aplicación móvil      |             |
-| 4  | Quiero que en la noche se enciendan las luces de la pecera.  |    Alta       |            |      Reducir la cantidad de luz en la habitación         |             |
+| 1  | Quiero darle de comer a mis peces cada cierto tiempo manual y automáticamente. |   Alta        |      2 a 3 semanas      |        Esperar a la hora programada o activarlo desde la aplicación móvil       |             |
+| 2  | Cómo usuario quiero encender el airador cada que sea requerido. |    Alta       |    2 a 3 semanas         |      Aumentar la temperatura del ambiente         |             |
+| 3  | Como usuario quiero conocer las condiciones de la pecera. |      Alta     |       2 a 3 semanas     |         Revisar la aplicación móvil      |             |
+| 4  | Quiero que en la noche se enciendan las luces de la pecera.  |    Alta       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |             |
 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
