@@ -23,8 +23,7 @@ la aplicación móvil.
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
 |  1  |  Arduino  |  2.0.1  |  IDE  |
-|    |          |         |      |
-|    |          |         |      |
+
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
