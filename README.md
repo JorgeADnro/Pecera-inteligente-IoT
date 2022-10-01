@@ -13,12 +13,11 @@ una serie de luces led blanca al contorno de la pecera, además de contar con un
 que puede ser encendido debido a gestión del usuario o cuando detecte temperaturas ligeramente altas; todo esto podrá ser programable desde
 la aplicación móvil.
 ### Objetivos específicos
-- Elemento 1 de la lista de objetivos específicos
-- Elemento 2 de la lista de objetivos específicos
-- Elemento 3 de la lista de objetivos específicos
-- Elemento 4 de la lista de objetivos específicos
-...
-- Elemento n de la lista de objetivos específicos
+- Encender luces led cuando se detecte luz baja
+- Dispensar comida a la hora programada por el usuario o de manera manual
+- Capacidad de programar la cantidad de comida dispensada
+- Encender aireador cuando se detecte temperatura alta o por gestión de usuario
+- Conexión a aplicación móvil con información de los sensores.
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
