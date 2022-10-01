@@ -52,4 +52,4 @@ la aplicación móvil.
 | 4  | Quiero que en la noche se enciendan las luces de la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |       Itzel Alessandra Fuentes Cabrera      |
 
 ## Prototipo en dibujo
-- Coloca la fotografia de tu prototipo dibujado a lapiz
+![image](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/f7de850efa2439e0d2261c8579b55cab27329e7f/Dibujo.jpeg)
