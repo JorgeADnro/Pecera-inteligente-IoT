@@ -30,8 +30,8 @@ la aplicación móvil.
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|  1  |  ESP32  |  El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos  |  ![image](https://www.sigmaelectronica.net/wp-content/uploads/2019/03/ESP-32.jpg)   |          |             |
-|    |            |             |        |          |             |
+|  1  |  ESP32  |  El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos  |  ![image](https://www.sigmaelectronica.net/wp-content/uploads/2019/03/ESP-32.jpg)|      1    |     $150        |
+|   2 |            |             |        |          |             |
 |    |            |             |        |          |             |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
