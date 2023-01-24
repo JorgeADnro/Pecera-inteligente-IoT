@@ -13,12 +13,6 @@ que será dispensada. Esta pecera contendrá un modo nocturno que consiste en qu
 una serie de luces led blanca al contorno de la pecera, además de contar con una serie RGB para personalizar su diseño; también contendrá un aireador
 que puede ser encendido debido a gestión del usuario o cuando detecte temperaturas ligeramente altas; todo esto podrá ser programable desde
 la aplicación móvil.
-### Objetivos específicos
-- Encender luces led cuando se detecte luz baja
-- Dispensar comida a la hora programada por el usuario o de manera manual
-- Capacidad de programar la cantidad de comida dispensada
-- Encender aireador cuando se detecte temperatura alta o por gestión de usuario
-- Conexión a aplicación móvil con información de los sensores.
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
@@ -38,12 +32,6 @@ la aplicación móvil.
 |  5  |   Lomas Aqua Jet Bomba de Aire de 5 Galones para Peceras y/o Acuario  |     Una bomba de aire o aireador, sirve básicamente para garantizarnos de que no exista una barrera que bloquee el intercambio de oxígeno y dióxido de carbono en el acuario.    |   ![image](https://m.media-amazon.com/images/I/61NWypyg2UL._AC_SX466_.jpg)  |   1  |  $95   |
 |  6  |   Alimentador Automático De Peces, 3 Métodos De Alimentación  |     Dispensador automático de comida de gran capacidad    |   ![image](https://http2.mlstatic.com/D_NQ_NP_948616-CBT49464086682_032022-O.jpg)  |   1  |  $173   |
 
-
-## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
-- Quiero darle de comer a mis peces cada cierto tiempo manual y automáticamente.
-- Cómo usuario quiero encender el airador cada que sea requerido.
-- Como usuario quiero conocer las condiciones de la pecera.
-- Quiero que en la noche se enciendan las luces de la pecera.
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
