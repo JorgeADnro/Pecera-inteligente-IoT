@@ -1,9 +1,10 @@
-# ProjectsIoT2022
+# ProjectsIoT2023
 
 ## Integrantes
 1. Jorge Luis Ayala Manrique
-2. Itzel Alessandra Fuentes Cabrera
-3. Cristian Emmanuel Gutiérrez Díaz
+2. José Armando Gutiérrez Rodríguez
+3. Carlos Eduardo Mata Rojas
+4. Victor Andrés Garay Montes
 
 ## Objetivo general
 En este proyecto se pretende diseñar y crear una pecera inteligente, esta será controlada con una aplicación movil con capacidad
@@ -24,6 +25,7 @@ la aplicación móvil.
 |----|----------|---------|------|
 |  1  |  Arduino  |  2.0.1  |  IDE  |
 |  2  |  Visual Studio Code  |  1.71.2  |  IDE  |
+|  3  |  Node-Red  |  3.0  |  Servicio  |
 
 
 ## Tabla con el hardware utilizado
