@@ -39,11 +39,11 @@ la aplicación móvil.
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-| 1  | Quiero darle de comer a mis peces cada cierto tiempo automáticamente. |   Alta        |      2 a 3 semanas      |        Esperar a la hora programada o activarlo desde la aplicación móvil       |      Jorge Luis Ayala Manrique       |
-| 2  | Como usuario quiero que el aireador mantenga la pecera oxigenada. |    Alta       |    2 a 3 semanas         |      Aumentar la temperatura del ambiente         |       Cristian Emmanuel Gutiérrez Díaz      |
-| 3  | Quiero poder ver a través del servicio node-red el estado de la pecera. |      Media     |       2 a 3 semanas     |         Revisar la aplicación móvil      |      Jorge Luis Ayala Manrique       |
-| 4  | Quiero que en la noche se enciendan las luces de la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |       Itzel Alessandra Fuentes Cabrera      |
-| 5  | Quiero poder ver a través de la cámara la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |       Itzel Alessandra Fuentes Cabrera      |
+| 1  | Quiero darle de comer a mis peces cada cierto tiempo automáticamente. |   Alta        |      2 a 3 semanas      |        Esperar a la hora programada o activarlo desde la aplicación móvil       |             |
+| 2  | Como usuario quiero que el aireador mantenga la pecera oxigenada. |    Alta       |    2 a 3 semanas         |      Aumentar la temperatura del ambiente         |             |
+| 3  | Quiero poder ver a través del servicio node-red el estado de la pecera. |      Media     |       2 a 3 semanas     |         Revisar la aplicación móvil      |             |
+| 4  | Quiero que en la noche se enciendan las luces de la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |             |
+| 5  | Quiero poder ver a través de la cámara la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |             |
 
 ## Prototipo en dibujo
 ![image](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/f7de850efa2439e0d2261c8579b55cab27329e7f/Dibujo.jpeg)
