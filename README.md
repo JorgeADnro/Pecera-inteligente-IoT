@@ -32,6 +32,9 @@ la aplicación móvil.
 |  5  |   Lomas Aqua Jet Bomba de Aire de 5 Galones para Peceras y/o Acuario  |     Una bomba de aire o aireador, sirve básicamente para garantizarnos de que no exista una barrera que bloquee el intercambio de oxígeno y dióxido de carbono en el acuario.    |   ![image](https://m.media-amazon.com/images/I/61NWypyg2UL._AC_SX466_.jpg)  |   1  |  $95   |
 |  6  |   Pecera cristal  |     Pecera de cristal rectangular    |   ![image](https://m.media-amazon.com/images/I/71cLcaNgpyL.__AC_SX300_SY300_QL70_ML2_.jpg)  |   1  |  $0   |
 |  7  |   Servo  |     Servomotor Mg995 15kg Arduino    |   ![image](https://http2.mlstatic.com/D_NQ_NP_681898-MLM52931247115_122022-O.webp)  |   1  |  $0   |
+|  8  |   Esp32 Cam  |     Esp32 Cam Ov2640 + Adaptador Programador Wifi Bt Arduino Ide    |   ![image](https://user-images.githubusercontent.com/106614143/214420017-e3355e9c-5e21-4c4e-b0f6-9a56ac1fe871.png)  |   1  |  $289   |
+
+
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
