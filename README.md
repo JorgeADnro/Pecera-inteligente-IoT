@@ -31,7 +31,7 @@ la aplicación móvil.
 |  4  |   Tira Luces Led Bluetooth Control App Usb Impermeable Rgb 3m  |     Es una tira de LED que puede cambiar de color usando un controlador. Los diferentes colores se obtienen mezclando los 3 colores primarios rojo, verde y azul, de ahí la abreviatura RGB. Estos 3 colores están presentes en el mismo chip.    |   ![image](https://http2.mlstatic.com/D_NQ_NP_732280-CBT50066636636_052022-O.webp)   |   1  |  $187   |
 |  5  |   Lomas Aqua Jet Bomba de Aire de 5 Galones para Peceras y/o Acuario  |     Una bomba de aire o aireador, sirve básicamente para garantizarnos de que no exista una barrera que bloquee el intercambio de oxígeno y dióxido de carbono en el acuario.    |   ![image](https://m.media-amazon.com/images/I/61NWypyg2UL._AC_SX466_.jpg)  |   1  |  $95   |
 |  6  |   Pecera cristal  |     Pecera de cristal rectangular    |   ![image](https://m.media-amazon.com/images/I/71cLcaNgpyL.__AC_SX300_SY300_QL70_ML2_.jpg)  |   1  |  $0   |
-|  7  |   Servo  |     Pecera de cristal rectangular    |   ![image](https://http2.mlstatic.com/D_NQ_NP_681898-MLM52931247115_122022-O.webp)  |   1  |  $0   |
+|  7  |   Servo  |     Servomotor Mg995 15kg Arduino    |   ![image](https://http2.mlstatic.com/D_NQ_NP_681898-MLM52931247115_122022-O.webp)  |   1  |  $0   |
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
