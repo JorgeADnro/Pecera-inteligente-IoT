@@ -7,12 +7,11 @@
 4. Victor Andrés Garay Montes
 
 ## Objetivo general
-En este proyecto se pretende diseñar y crear una pecera inteligente, esta será controlada con una aplicación movil con capacidad
-de dispensar comida automáticamente a una hora programada o cuando el usuario lo requiera, gestionando también la cantidad de comida 
-que será dispensada. Esta pecera contendrá un modo nocturno que consiste en que cuando se detecta poca luz, se encenderá
+En este proyecto se pretende diseñar y crear una pecera inteligente, con capacidad
+de dispensar comida automáticamente a una hora programada o cuando el usuario lo requiera. Esta pecera contendrá un modo nocturno que consiste en que cuando se detecta poca luz, se encenderá
 una serie de luces led blanca al contorno de la pecera, además de contar con una serie RGB para personalizar su diseño; también contendrá un aireador
-que puede ser encendido debido a gestión del usuario o cuando detecte temperaturas ligeramente altas; todo esto podrá ser programable desde
-la aplicación móvil.
+que puede ser encendido debido a gestión del usuario o cuando detecte temperaturas ligeramente altas (mayor a 30°); todo esto podrá ser programable desde
+el servicio node-red.
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
@@ -39,11 +38,11 @@ la aplicación móvil.
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-| 1  | Quiero darle de comer a mis peces cada cierto tiempo automáticamente. |   Alta        |      2 a 3 semanas      |        Esperar a la hora programada o activarlo desde la aplicación móvil       |             |
-| 2  | Como usuario quiero que el aireador mantenga la pecera oxigenada. |    Alta       |    2 a 3 semanas         |      Aumentar la temperatura del ambiente         |             |
-| 3  | Quiero poder ver a través del servicio node-red el estado de la pecera. |      Media     |       2 a 3 semanas     |         Revisar la aplicación móvil      |             |
-| 4  | Quiero que en la noche se enciendan las luces de la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |             |
-| 5  | Quiero poder ver a través de la cámara la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |             |
+| 1  | Quiero darle de comer a mis peces cada cierto tiempo automáticamente. |   Alta        |      2 a 3 semanas      |        Esperar a la hora programada o activarlo desde la aplicación móvil       |      Carlos Eduardo Mata Rojas       |
+| 2  | Como usuario quiero que el aireador mantenga la pecera oxigenada. |    Alta       |    2 a 3 semanas         |      Aumentar la temperatura del ambiente         |       José Armando Gutiérrez Rodríguez      |
+| 3  | Quiero poder ver a través del servicio node-red el estado de la pecera. |      Media     |       2 a 3 semanas     |         Revisar el dashboard      |   Victor Andrés Garay Montes          |
+| 4  | Quiero que en la noche se enciendan las luces de la pecera.  |    Media       |      2 a 3 semanas      |      Reducir la cantidad de luz en la habitación         |      Jorge Luis Ayala Manrique       |
+| 5  | Quiero poder ver a través de la cámara la pecera.  |    Media       |      2 a 3 semanas      |      Revisar el dashboard         |       Victor Andrés Garay Montes      |
 
 ## Prototipo en dibujo
 ![image](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/f7de850efa2439e0d2261c8579b55cab27329e7f/Dibujo.jpeg)
