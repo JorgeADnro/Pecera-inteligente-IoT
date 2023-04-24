@@ -57,6 +57,9 @@ el servicio node-red.
 ## Código de los sensores y actuadores
 [Código de los sensores](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/main/sketch_apr21a.ino)
 
+## Librerías empleadas
+[Código de los sensores](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/main/sketch_apr21a.ino)
+
 ## Video de demostración de funcionalidad
 [Vídeo](https://www.youtube.com/watch?v=z7TAg1ipD-E)
 
