@@ -46,3 +46,7 @@ el servicio node-red.
 
 ## Prototipo en dibujo
 ![image](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/f7de850efa2439e0d2261c8579b55cab27329e7f/Dibujo.jpeg)
+
+# Producto
+## Código del Dashboard
+![Código Dashboard en Firebase](https://github.com/ArmandoxxXD/IOT_Dashboard)
