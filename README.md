@@ -47,18 +47,18 @@ el servicio node-red.
 ## Prototipo en dibujo
 ![image](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/f7de850efa2439e0d2261c8579b55cab27329e7f/Dibujo.jpeg)
 
-# Producto
+# Producto terminado
 ## Código del Dashboard
 [Código Dashboard en Firebase](https://github.com/ArmandoxxXD/IOT_Dashboard)
 
 ## Código del motor
-[Código Dashboard en Firebase](https://github.com/ArmandoxxXD/IOT_Dashboard)
+[Código encargado del control del motor](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/main/ProyectoFinal.ino)
 
 ## Código de los sensores y actuadores
-[Código Dashboard en Firebase](https://github.com/ArmandoxxXD/IOT_Dashboard)
+[Código de los sensores](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/main/sketch_apr21a.ino)
 
 ## Video de demostración de funcionalidad
-[Código Dashboard en Firebase](https://www.youtube.com/watch?v=z7TAg1ipD-E)
+[Vídeo](https://www.youtube.com/watch?v=z7TAg1ipD-E)
 
 ## Evidencia fotográfica
 ![image](https://user-images.githubusercontent.com/107881774/234112444-f0f4ed00-16c2-4b28-9d77-1029c8042eff.png)
