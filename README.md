@@ -58,7 +58,15 @@ el servicio node-red.
 [Código de los sensores](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/main/sketch_apr21a.ino)
 
 ## Librerías empleadas
-[Código de los sensores](https://github.com/JorgeADnro/Pecera-inteligente-IoT/blob/main/sketch_apr21a.ino)
+[Librerias](https://github.com/JorgeADnro/Pecera-inteligente-IoT/tree/main/Librerias)
+Listado de libreria
+-WiFi.h
+-Firebase_ESP_Client.h
+-Wire.h
+-Adafruit_Sensor.h
+-OneWire.h
+-DallasTemperature.h
+-Servo.h
 
 ## Video de demostración de funcionalidad
 [Vídeo](https://www.youtube.com/watch?v=z7TAg1ipD-E)
