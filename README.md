@@ -51,4 +51,22 @@ el servicio node-red.
 ## Código del Dashboard
 [Código Dashboard en Firebase](https://github.com/ArmandoxxXD/IOT_Dashboard)
 
-## Cód
+## Código del motor
+[Código Dashboard en Firebase](https://github.com/ArmandoxxXD/IOT_Dashboard)
+
+## Código de los sensores y actuadores
+[Código Dashboard en Firebase](https://github.com/ArmandoxxXD/IOT_Dashboard)
+
+## Video de demostración de funcionalidad
+[Código Dashboard en Firebase](https://www.youtube.com/watch?v=z7TAg1ipD-E)
+
+## Evidencia fotográfica
+![image](https://user-images.githubusercontent.com/107881774/234112444-f0f4ed00-16c2-4b28-9d77-1029c8042eff.png)
+![image](https://user-images.githubusercontent.com/107881774/234112477-de2026d5-2a3d-46bf-a351-dd206cf7b936.png)
+![image](https://user-images.githubusercontent.com/107881774/234112517-3d975d89-a033-4cc0-a0d5-4a2ad275f54f.png)
+![image](https://user-images.githubusercontent.com/107881774/234112566-89328df2-998c-4a59-bdfc-076f6634bfaa.png)
+![image](https://user-images.githubusercontent.com/107881774/234112610-4d57d3cd-d512-4649-8e0d-5409baae5abf.png)
+![image](https://user-images.githubusercontent.com/107881774/234112632-15d3cfd2-9c57-4e5f-adc7-a052bb997588.png)
+![image](https://user-images.githubusercontent.com/107881774/234112660-e4ada0c6-aa20-442c-b006-d879a4068529.png)
+
+
