@@ -60,13 +60,13 @@ el servicio node-red.
 ## Librerías empleadas
 [Librerias](https://github.com/JorgeADnro/Pecera-inteligente-IoT/tree/main/Librerias)
 Listado de libreria
--WiFi.h
--Firebase_ESP_Client.h
--Wire.h
--Adafruit_Sensor.h
--OneWire.h
--DallasTemperature.h
--Servo.h
+- WiFi.h
+- Firebase_ESP_Client.h
+- Wire.h
+- Adafruit_Sensor.h
+- OneWire.h
+- DallasTemperature.h
+- Servo.h
 
 ## Video de demostración de funcionalidad
 [Vídeo](https://www.youtube.com/watch?v=z7TAg1ipD-E)
